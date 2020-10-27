@@ -1,0 +1,18 @@
+{
+  "name": "Spotify-Status",
+  "version": "1.0.0",
+  "description": "A simple status showing module for spotify made using canvas and spotify-api.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["spotify"],
+  "author": "Abh80",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "spotify-api.js": "^4.0.1"
+  }
+}
