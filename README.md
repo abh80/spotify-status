@@ -5,4 +5,4 @@ A simple spotify status generator using node canvas.
 Project is made using spotify-api.js and express.
 
 # preview 
-- ![cache](./preview.png)
+![cache](./preview.png)
